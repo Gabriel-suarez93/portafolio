@@ -1,0 +1,35 @@
+.academic__title{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 9% 7% 4% 3%;
+    font-size: 35px;
+}
+.academic__courses{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.experience__img{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    border-radius: 5px;
+}
+
+.experience__description{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.experiencia__botao--repo , .experience__botao--demo{
+    border-radius: 8%;
+    font-size: 1.5rem;
+    background: bottom;
+    border-bottom-color: darkcyan;
+    border-bottom-style: groove;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    font-family: 'boxicons';
+    margin-top: 2rem;
+    margin-right: 8px;
+}

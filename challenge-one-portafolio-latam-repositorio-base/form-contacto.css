@@ -1,0 +1,32 @@
+.formcontato__text{
+    display: grid;
+}
+
+.formcontato__title{
+    margin: 1rem;
+    
+}
+
+.formcontato__subtext{
+    margin: 1rem;
+    font-size: 1rem;
+}
+
+.formcontato__input, .formcontato__textarea{
+    margin: 0.75rem;
+    border-color: rgb(94, 94, 199);
+    border-radius: 5%;
+    font-size: 1rem;
+}
+.formcontato__form{
+    display: grid;
+    margin: 10% 5% 5% 5%;
+}
+
+.formcontato__botao{
+    margin: 1rem;
+    border-color: rgb(94, 94, 199);
+    font-size: 1.3rem;
+    background-image: linear-gradient(rgb(55, 55, 83), rgb(81, 81, 184));
+    color: aliceblue;
+}

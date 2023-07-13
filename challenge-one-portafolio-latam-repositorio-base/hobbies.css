@@ -1,0 +1,33 @@
+.hobbies{
+    margin-top: 9%;
+    margin-bottom: 15rem;
+}
+
+.hobbies__title{
+    font-size: 35px;
+    text-align: center;
+    margin: 5%;
+}
+.hobbies__line{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 8% 10% 8%;
+}
+
+.hobbies__img{
+    font-size: 45px;
+    margin-bottom: 1rem;
+}
+
+.hobbies__img:hover{
+    color: rgb(71, 72, 172);
+    transform: rotate(25deg);
+    transition: 0.5s;
+    }
+.hobbies__box{
+    width: 300px;
+    height: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}

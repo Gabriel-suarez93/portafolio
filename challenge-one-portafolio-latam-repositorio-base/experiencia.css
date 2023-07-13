@@ -1,0 +1,27 @@
+.experience__section__title{
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+}
+.experiencie__box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 15px;
+    
+}
+
+.experience__info{
+    display: grid;  
+    justify-content: center;
+    align-items: baseline;
+    color: var(--cor-de-title);
+}
+
+.experience__img{
+    width: 45%;
+    margin: 2rem 2rem;;
+}
+.experience__section__title{
+    font-size: 35px;
+}
